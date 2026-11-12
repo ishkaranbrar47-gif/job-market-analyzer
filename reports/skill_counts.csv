@@ -1,0 +1,37 @@
+skill,postings,share,category
+Computer Science degree,7,0.269,Degrees named
+Communication,6,0.231,Human and domain skills
+Psychology degree,6,0.231,Degrees named
+Troubleshooting,5,0.192,Support and operations tools
+Python,4,0.154,Programming languages
+SQL,4,0.154,Programming languages
+"Ticketing (Zendesk, JIRA, ITSM)",4,0.154,Support and operations tools
+Knowledge base and docs,3,0.115,Support and operations tools
+TypeScript,3,0.115,Programming languages
+SaaS,3,0.115,Frameworks and platforms
+Excel / Google Sheets,3,0.115,Data and analytics
+User research,3,0.115,Human and domain skills
+Code review,2,0.077,Engineering practices
+Collaboration,2,0.077,Human and domain skills
+Security and auth,2,0.077,Engineering practices
+React,2,0.077,Frameworks and platforms
+ETL and data validation,2,0.077,Data and analytics
+BI dashboards,2,0.077,Data and analytics
+Policy and fraud,2,0.077,Human and domain skills
+Agile,1,0.038,Engineering practices
+CI/CD,1,0.038,Engineering practices
+Django,1,0.038,Frameworks and platforms
+Next.js,1,0.038,Frameworks and platforms
+Node.js,1,0.038,Frameworks and platforms
+APIs (REST/JSON),1,0.038,Engineering practices
+Google Cloud,1,0.038,Frameworks and platforms
+ITIL,1,0.038,Support and operations tools
+Networking,1,0.038,Engineering practices
+Machine learning,1,0.038,Data and analytics
+R,1,0.038,Programming languages
+Attention to detail,1,0.038,Human and domain skills
+C++,1,0.038,Programming languages
+Java,1,0.038,Programming languages
+JavaScript,1,0.038,Programming languages
+Statistics,1,0.038,Data and analytics
+Judgement and decisions,1,0.038,Human and domain skills

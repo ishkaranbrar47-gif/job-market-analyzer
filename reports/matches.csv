@@ -1,0 +1,27 @@
+title,company,location,track,skills,min_years,match,missing
+Technical Support Specialist,Greenhouse,Remote - Canada,support,Collaboration; Communication,,1.0,
+Junior Data Analyst,Trading Academy,Remote - USA,data,Machine learning; Python; SQL,,1.0,
+Coding Expertise for AI Training,Outlier,Remote - Canada,ai_training,Attention to detail; C++; Communication; Computer Science degree; Java; JavaScript; Python; TypeScript,,1.0,
+Psychology Graduates - AI Training,Prolific,Remote - USA,ai_training,Psychology degree,,1.0,
+Trust & Safety Specialist,Virtual Vocations listing,Remote,trust_safety,Psychology degree,1,1.0,
+Cognitive Scientist AI Trainer,remowork listing,Remote,ai_training,Computer Science degree; Psychology degree; Statistics,2,1.0,
+Computer Science Expert,Mercor,Remote - Canada (contract),ai_training,Computer Science degree,3,1.0,
+Mixed-Methods UX Researcher,Huckleberry,Remote - USA,ux_research,Communication; Computer Science degree; Psychology degree; User research,,0.75,User research
+"Junior Software Developer, Backend",Hootsuite,Remote - Canada,software,Agile; CI/CD; Code review; Collaboration; Communication; Computer Science degree; Knowledge base and docs; Security and auth; Troubleshooting,1,0.56,Agile; Code review; Security and auth; Troubleshooting
+Junior Software Developer,Raymont Residential College,Remote - Canada,software,Django; Python; React; TypeScript,,0.5,Django; React
+Customer Support Specialist,Built In listing,Remote - Canada,support,"Knowledge base and docs; Ticketing (Zendesk, JIRA, ITSM)",,0.5,"Ticketing (Zendesk, JIRA, ITSM)"
+Computer Science Specialist - AI Training,Prolific,Remote - Worldwide,ai_training,Code review; Computer Science degree,,0.5,Code review
+Content Moderator (Trust & Safety),Careerscape (client),Remote - USA (Florida),trust_safety,Policy and fraud; Psychology degree,0,0.5,Policy and fraud
+Junior Data Analyst,Patterned Learning,Remote - Worldwide,data,Excel / Google Sheets; SQL,1,0.5,Excel / Google Sheets
+UX Researcher,Virtual Vocations listing,Remote,ux_research,Psychology degree; User research,2,0.5,User research
+Data Analyst,Remote,Remote - 4 locations,data,BI dashboards; Excel / Google Sheets; Python; R; SQL,,0.4,BI dashboards; Excel / Google Sheets; R
+Technical Support Specialist,Think Research,Remote - Canada,support,"APIs (REST/JSON); Communication; Computer Science degree; Google Cloud; ITIL; SQL; SaaS; Security and auth; Ticketing (Zendesk, JIRA, ITSM); Troubleshooting",1,0.4,"Google Cloud; ITIL; SaaS; Security and auth; Ticketing (Zendesk, JIRA, ITSM); Troubleshooting"
+Customer Support Specialist,Built In listing,Remote - Canada,support,"Knowledge base and docs; SaaS; Ticketing (Zendesk, JIRA, ITSM)",,0.33,"SaaS; Ticketing (Zendesk, JIRA, ITSM)"
+Junior Software Engineer,Avanciers Inc.,Remote - Canada (contract),software,Next.js; Node.js; React; TypeScript,5,0.25,Next.js; Node.js; React
+Trust & Safety Analyst II,Stott and May (client),"Remote - UK, US or Canada",trust_safety,"BI dashboards; Communication; Judgement and decisions; Policy and fraud; Ticketing (Zendesk, JIRA, ITSM)",3,0.2,"BI dashboards; Judgement and decisions; Policy and fraud; Ticketing (Zendesk, JIRA, ITSM)"
+Technical Support Specialist,GoCanvas (SiteDocs),Remote - Canada,support,Troubleshooting,,0.0,Troubleshooting
+Technical Support Specialist (accounting software),Built In listing,Remote or hybrid - British Columbia,support,Excel / Google Sheets; Troubleshooting,,0.0,Excel / Google Sheets; Troubleshooting
+Senior Technical Support Specialist,Built In listing,Remote or hybrid - Canada,support,Networking; SaaS; Troubleshooting,,0.0,Networking; SaaS; Troubleshooting
+Junior Data Analyst,Ideaware,Remote - Worldwide,data,ETL and data validation,,0.0,ETL and data validation
+UX Researcher I,Skillsoft,Remote,ux_research,User research,1,0.0,User research
+Junior Data Analyst / Data Scientist,DailyRemote listing,Remote - Worldwide,data,ETL and data validation,2,0.0,ETL and data validation
